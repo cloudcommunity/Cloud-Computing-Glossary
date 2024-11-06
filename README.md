@@ -2,9 +2,17 @@
 
 An open list of common cloud computing terms and their definitions. The definitions can be found on the accompanying web page: [Cloud Computing Glossary](https://cloudstudy.net/glossary). ere, only the terms and their short 3-word descriptions are listed, and they are sorted in alphabetical order.
 
+## Contribute
+
 To add a new term: submit it via a pull request.
 
 To request a new term: create a [new issue](https://github.com/cloudcommunity/Cloud-Computing-Glossary/issues/new).
+
+## Show Your Support
+
+⭐️ **If you find this Cloud Computing Glossary helpful, please consider starring this repository (★) to help others discover this resource!** ⭐️
+
+## Terms
 
 - **API Gateway**: Manages API requests
 - **Auto Scaling**: Adjusts resources automatically
