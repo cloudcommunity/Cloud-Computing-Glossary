@@ -4,7 +4,7 @@ An open list of common cloud computing terms and their definitions. The definiti
 
 To add a new term: submit it via a pull request.
 
-To request a new term: create a [new issue](https://github.com/cloudcommunity/Cloud-Computing-Glossary/issues/new)
+To request a new term: create a [new issue](https://github.com/cloudcommunity/Cloud-Computing-Glossary/issues/new).
 
 - **API Gateway**: Manages API requests
 - **Auto Scaling**: Adjusts resources automatically
