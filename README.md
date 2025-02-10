@@ -1,6 +1,6 @@
 # Cloud Computing Glossary
 
-An open list of common cloud computing terms and their definitions. The definitions can be found on the accompanying web page: [Cloud Computing Glossary](https://cloudstudy.net/glossary). ere, only the terms and their short 3-word descriptions are listed, and they are sorted in alphabetical order.
+An open list of common cloud computing terms and their definitions. The definitions can be found on the accompanying web page: [Cloud Computing Glossary](https://cloudstudy.net/glossary). Here, only the terms and their short 3-word descriptions are listed, and they are sorted in alphabetical order.
 
 ## Contribute
 
